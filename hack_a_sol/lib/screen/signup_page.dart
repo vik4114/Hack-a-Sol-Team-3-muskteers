@@ -212,7 +212,7 @@ class signin_State extends State<signin>{
                 child: TextField(
                   controller: collegeController,
                   decoration: InputDecoration(
-                    hintText: 'College',
+                    hintText: 'Individual OR Organizer',
                     hintStyle: TextStyle(
                       fontSize: 20,
                       color: Colors.white70,
