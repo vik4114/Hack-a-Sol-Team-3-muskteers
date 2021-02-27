@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:notenexus/screen/login.dart';
-import 'package:notenexus/screen/login_option.dart';
-import 'package:notenexus/screen/signup.dart';
-import 'package:notenexus/screen/signup_option.dart';
-import 'package:notenexus/screen/Home.dart';
+import 'package:hack_a_sol/screen/login.dart';
+import 'package:hack_a_sol/screen/login_option.dart';
+import 'package:hack_a_sol/screen/signup.dart';
+import 'package:hack_a_sol/screen/signup_option.dart';
+import 'package:hack_a_sol/screen/Home.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 void main() async{

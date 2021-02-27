@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:notenexus/config/drawerConfig.dart';
+import 'package:hack_a_sol/config/drawerConfig.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:notenexus/main.dart';
+import 'package:hack_a_sol/main.dart';
 
 class DrawerScreen extends StatefulWidget {
   @override

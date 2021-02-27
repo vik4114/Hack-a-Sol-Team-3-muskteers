@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:notenexus/screen/Home.dart';
+import 'package:hack_a_sol/screen/Home.dart';
 import '../main.dart';
 import 'signup_page.dart';
 import 'gsignup_page.dart';
